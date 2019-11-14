@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.exe
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.deps.json
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.dll
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\bin\Debug\netcoreapp3.0\LearningFinally.pdb
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\obj\Debug\netcoreapp3.0\LearningFinally.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\obj\Debug\netcoreapp3.0\LearningFinally.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\obj\Debug\netcoreapp3.0\LearningFinally.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\obj\Debug\netcoreapp3.0\LearningFinally.dll
+C:\Users\Jason\source\repos\LearningFinally\LearningFinally\obj\Debug\netcoreapp3.0\LearningFinally.pdb
